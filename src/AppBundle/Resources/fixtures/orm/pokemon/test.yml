@@ -1,0 +1,20 @@
+AppBundle\Entity\User\User:
+  Emmanuel:
+    username: 'Emmanuel Lorenzo'
+    email: 'emmanuellorenzodb@gmail.com'
+    enabled: true
+    password : '1995'
+    last_login : '<dateTimeBetween("-200 days", "now")>'
+    level: 1
+    xp: 900
+    team : 'blue'
+  Sacha:
+    username: 'Sacha de Bourg Palette'
+    email: 'maca@hotmail.fr'
+    enabled: true
+    password : 'leviathan'
+    last_login : '<dateTimeBetween("-200 days", "now")>'
+    level: 7
+    xp: 4830
+    team : 'red'
+

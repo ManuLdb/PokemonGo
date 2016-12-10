@@ -1,0 +1,28 @@
+AppBundle\Entity\Pokemon\Pokemon:
+  bulbizarre:
+    name: 'Bulbizarre'
+    type:
+      - '@plante'
+      - '@poison'
+  herbizarre:
+    name: 'Herbizarre'
+    type:
+      - '@plante'
+      - '@poison'
+  grotadmorv:
+    name: 'Grotadmorv'
+    type:
+      - '@poison'
+  salameche:
+    name: 'Salameche'
+    type:
+      - '@feu'
+  leviathan:
+    name: 'Leviathan'
+    type:
+      - '@eau'
+  dracaufeu:
+    name: 'Dracaufeu'
+    type:
+      - '@feu'
+      - '@vol'
